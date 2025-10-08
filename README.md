@@ -1,2 +1,2 @@
 # UAW
-开发世界半监督
+A Unified Open-World Semi-Supervised Learning Framework for Industrial Defect Detection via Contrastive Embedding and Dynamic Attention
